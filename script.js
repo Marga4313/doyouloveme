@@ -15,7 +15,7 @@ no.addEventListener("click", () => {
   if (count === 30) alert("dmoko matitiis tae mo 🙄");
   if (count === 35)
     alert("sumbong kita kalamo dimona pala ako love hohohohoho 😭");
-  if (count === 35) alert("dina kita love bahala ka 😤");
+  if (count === 40) alert("dina kita love bahala ka 😤");
   if (count === 50) alert("bat nandito kapa 😡");
 
   if (X <= 210) no.style.left = X + px;
