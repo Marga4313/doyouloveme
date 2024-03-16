@@ -29,6 +29,6 @@ no.addEventListener("click", () => {
 
 yes.addEventListener("click", () => {
   if (count <= 19) alert("oh Thank you! and 'I Love You too' ❤️😘");
-  else alert("sabi kona love mo tlaga ako pugi pugi ko eh 🥰");
+  else alert("sabi kona love mo tlaga ako bait bait ko eh 🥰");
   count = 0;
 });
